@@ -9,3 +9,4 @@
 | Fatalai Jon | Team Lead, breakfast menu | fatalaijon |
 | Jim Brucker | lunch menu | jbrucker |
 | Jittat Fakcharoenphol | dinner menu | jittat |
+| Sidtipat Kietchai | dinner menu | patdpat |
