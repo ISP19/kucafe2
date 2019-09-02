@@ -2,7 +2,8 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Curry Rice                             |  25.0 |
+| Fried Eggs with Rice                   |  30.0 |
+| Fried Rice with chicken                |  25.0 |
 | Maki sushi with avacado, 6 pieces      |  50.0 |
 | Mixed Vegetable with brown rice        |  30.0 |
 | Pad Thai                               |  30.0 |
