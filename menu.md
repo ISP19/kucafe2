@@ -1,3 +1,15 @@
+## Breakfast Menu
+
+| Item                                           | Price (THB) |
+| :--------------------------------------------- | ----------: |
+| Economy Sandwich (Bread From Pigeon Food)      |        10.0 |
+| Actual Sandwich (Bread from Convenience Store) |        25.0 |
+| Fried Eggs with rice                           |        25.0 |
+| Miso Soup with Tofu                            |        15.0 |
+| Rice Porridge                                  |        20.0 |
+| Rice and Fish Sauce                            |         5.0 |
+| Caviar Salad                                   |       400.0 |
+
 ## Lunch Menu
 
 | Item                                 | Price (THB) |
