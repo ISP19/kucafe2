@@ -13,7 +13,7 @@
 
 | Item           | Price (THB) |
 | :------------- | ----------: |
-| Drinking Water |        Free |
+| Drinking Water |        10.0 |
 | Green Tea      |        20.0 |
 | Iced Tea       |        18.0 |
 
