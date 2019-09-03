@@ -18,6 +18,9 @@
 | Item           | Price (THB) |
 | :------------- | ----------: |
 | Drinking Water |        Free |
+| Coffee, hot    |        25.0 |
+| Coffee, iced   |        25.0 |
+| Coffee Frape   |        45.0 |
 | Green Tea      |        20.0 |
 | Iced Tea       |        18.0 |
 
