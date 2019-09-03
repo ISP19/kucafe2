@@ -38,7 +38,7 @@
 
 | Item           | Price (THB) |
 | :------------- | ----------: |
-| Drinking Water |        Free |
+| Drinking Water |        10.0 |
 | Coffee, hot    |        25.0 |
 | Coffee, iced   |        25.0 |
 | Coffee Frape   |        45.0 |
