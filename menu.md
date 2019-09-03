@@ -1,3 +1,7 @@
+## Breakfast Menu
+
+Coming soon!
+
 ## Lunch Menu
 
 | Item                                   | Price (THB) |
@@ -11,7 +15,16 @@
 | Spagetti with tomato sauce             |  40.0 |
 
 
+## Dinner Menu
 
+| Item                              | Price (THB) |
+| :-------------------------------- | ----------: |
+| Fried Rice with Pork              |        35.0 |
+| Green Curry                       |        45.0 |
+| Pla Dook Foo (Fried Catfish)      |        60.0 |
+| Som Tam                           |        30.0 |
+| Tom Yum Goong (Spicy Shrimp Soup) |        45.0 |
+| Yum Talay (Spicy Seafood Salad)   |        25.0 |
 
 ## Beverages
 
