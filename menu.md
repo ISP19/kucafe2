@@ -2,13 +2,13 @@
 
 | Item                                   | Price (THB) |
 |:---------------------------------------|------:|
-| Fried Eggs with Rice                   |  30.0 |
-| Fried Rice with chicken                |  25.0 |
+| Fried eggs with rice                   |  30.0 |
+| Fried rice with chicken                |  25.0 |
 | Maki sushi with avacado, 6 pieces      |  50.0 |
-| Mixed Vegetable with brown rice        |  30.0 |
+| Mixed vegetable with brown rice        |  30.0 |
 | Pad Thai                               |  30.0 |
 | Soup of the day (varies), large bowl   |  25.0 |
-| Spagetti with Tomato Sauce             |  40.0 |
+| Spagetti with tomato sauce             |  40.0 |
 
 
 
