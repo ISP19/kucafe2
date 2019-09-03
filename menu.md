@@ -4,16 +4,15 @@ Coming soon!
 
 ## Lunch Menu
 
-| Item                                   | Price (THB) |
-|:---------------------------------------|------:|
-| Fried eggs with rice                   |  30.0 |
-| Fried rice with chicken                |  25.0 |
-| Maki sushi with avacado, 6 pieces      |  50.0 |
-| Mixed vegetable with brown rice        |  30.0 |
-| Pad Thai                               |  30.0 |
-| Soup of the day (varies), large bowl   |  25.0 |
-| Spagetti with tomato sauce             |  40.0 |
-
+| Item                                 | Price (THB) |
+| :----------------------------------- | ----------: |
+| Fried eggs with rice                 |        30.0 |
+| Fried rice with chicken              |        25.0 |
+| Maki sushi with avacado, 6 pieces    |        50.0 |
+| Mixed vegetable with brown rice      |        30.0 |
+| Pad Thai                             |        30.0 |
+| Soup of the day (varies), large bowl |        25.0 |
+| Spagetti with tomato sauce           |        40.0 |
 
 ## Dinner Menu
 
