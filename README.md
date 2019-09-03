@@ -6,7 +6,6 @@
 
 | Name   | Role  | Github   |
 |--------|-------|----------|
-| Fatalai Jon | Team Lead, breakfast menu | fatalaijon |
+| Fatalai Jon | Team Lead, lunch menu  | fatalaijon |
 | Jim Brucker | lunch menu | jbrucker |
-| Jittat Fakcharoenphol | dinner menu | jittat |
-| Sidtipat Kietchai | dinner menu | patdpat |
+| Sidtipat Kietchai | breakfast & dinner menu | patdpat |
